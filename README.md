@@ -4,6 +4,8 @@
 This repository contains the final project for the course **Machine Learning and Smart Systems**.  
 The goal of the project is to **detect and generate exoplanet transit signals** using deep learning architectures such as **LSTM** and **Autoencoders**.
 
+📓 [Research Log](RESEARCH_LOG.md)
+
 ---
 
 ### 🔒 Repository Access  
