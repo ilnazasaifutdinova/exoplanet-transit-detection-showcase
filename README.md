@@ -7,13 +7,21 @@ The goal of the project is to **detect and generate exoplanet transit signals** 
 ---
 
 ### 🔒 Repository Access  
-This repository is **public** and shared for academic and demonstration purposes only.  
-If you would like to view the full code or report, please **contact**:
+This repository is **public for reference only**.  
+To request access to the full code or report, please contact:
 
 **Ilnaza Saifutdinova**  
-📧 ilnazasaifutdinova@gmail.com  
+📧 [ilnazasaifutdinova@gmail.com](mailto:ilnazasaifutdinova@gmail.com)
 
 Unauthorized copying, redistribution, or reuse of any part of the code or report is **strictly prohibited**.
+
+---
+
+### 📜 License  
+This repository is licensed under the  
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.  
+You may **view and share** the content, but **commercial use, redistribution, and modifications** are **not allowed**.  
+Full terms: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ---
 
