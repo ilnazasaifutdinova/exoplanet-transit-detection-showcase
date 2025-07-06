@@ -15,7 +15,7 @@ To request access to the full code or report, please contact:
 **Ilnaza Saifutdinova**  
 📧 [ilnazasaifutdinova@gmail.com](mailto:ilnazasaifutdinova@gmail.com)
 
-Unauthorized copying, redistribution, or reuse of any part of the code or report is **strictly prohibited**.
+Unauthorised copying, redistribution, or reuse of any part of the code or report is **strictly prohibited**.
 
 ---
 
